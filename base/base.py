@@ -12,7 +12,7 @@ class Base:
 
     # 输入 方法
     def base_input(self, loc, value):
-        # 获取
+        # 获取     122222222222222222222222222222222222222222222222222222222
         el = self.base_find(loc)
         # 清空
         el.clear()
